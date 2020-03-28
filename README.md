@@ -1,2 +1,2 @@
 # juicy-app
-Experimentation with the MERN Stack, will involve database of fact about different types of juices, including my favorite, orange juice.
+This is my way of experimenting with the MERN Stack for frontend and backend development. If completed, it will involve a database of facts about different types of juices, including my favorite, orange juice. It will also include a personalized juice tracker - to keep track of all of the different flavors of juices one drinks in one day. On a normal day I have 2 to 3 glasses of orange juice. On some days I may feel like having tomato juice, or apple juice, or grapefruit juice. Ahhh, variety truly is the spice of life!
